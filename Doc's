@@ -1,3 +1,14 @@
-# Doodle-Documentary
+# CGAT Project dashboard
 
-##🤖 Command's
+[![Build Status](https://travis-ci.org/CGATProject/github-dashing.png?branch=master)](https://travis-ci.org/CGATProject/dashboard)
+
+Dashboards to monitor various metrics with the
+[CGAT][http://www.cgat.org] programme.
+
+The dashboard has several sections:
+
+* Software - github issues and pull requests, travis build status
+* Pipelines - overview of running CGAT Pipelines
+* Projects - monitoring of project email lists and locations
+* Cluster - monitoring cluster and disk health
+* Science - monitoring publication metrics, twitter, etc.
